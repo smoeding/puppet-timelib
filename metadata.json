@@ -1,0 +1,12 @@
+{
+  "name": "stm-timelib",
+  "version": "0.1.0",
+  "author": "stm",
+  "summary": "A library with functions to handle time",
+  "license": "BSD-2-Clause",
+  "source": "https://github.com/smoeding/puppet-timelib",
+  "project_page": "https://github.com/smoeding/puppet-timelib",
+  "issues_url": "https://github.com/smoeding/puppet-timelib/issues",
+  "tags": [ "time" ],
+  "dependencies": [ ]
+}
